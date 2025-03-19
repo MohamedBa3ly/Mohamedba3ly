@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **mohamedelbaaly1010@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
-
 - ⚡ Fun fact **Simplicity wins**
 
 <h3 align="left">Connect with me:</h3>
