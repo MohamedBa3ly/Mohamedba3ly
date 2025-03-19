@@ -24,7 +24,7 @@ Parenthood is a journey filled with joy, challenges, and countless memorable mom
 Stay organized and informed with Baby Care Center, an app designed to support you through your baby's growth and development.  
 </p>
 
-📱 <strong>Platform:</strong> Android (Jetpack Compose) & Flutter  
+📱 <strong>Available on:  
 
 <p align="center">
   🔗 <a href="https://play.google.com/store/apps/details?id=com.mohamedbaaly.babycarecenter">
