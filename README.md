@@ -30,7 +30,7 @@ Stay organized and informed with Baby Care Center, an app designed to support yo
   🔗 <a href="https://play.google.com/store/apps/details?id=com.mohamedbaaly.babycarecenter">
     <img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   🔗 <a href="https://apps.apple.com/us/app/baby-care-center-app/id6740412011">
     <img src="https://img.shields.io/badge/App_Store-333333?style=for-the-badge&logo=app-store&logoColor=white">
   </a>
