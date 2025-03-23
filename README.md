@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elbaaly</h1>
-<h3 align="center">Electrical Engineer, Passionate about Flutter and Android development</h3>
+<h3 align="center">Electrical Engineer, Passionate about Mobile Development</h3>
 
 - 🌱 I’m currently learning **Flutter Development**
 
