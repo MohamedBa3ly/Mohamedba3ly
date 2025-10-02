@@ -36,6 +36,27 @@ Stay organized and informed with Baby Care Center, an app designed to support yo
   </a>
 </p>
 
+
+### 🩺 CureBook 🩺  
+<img src="dental_icon.png" alt="CureBook Icon" width="100">  
+
+<p>
+Dental Appointment makes booking your next dentist visit fast and simple.
+Choose your dental specialization, select your doctor, and pick a suitable date and time, all in just a few taps.  
+</p>
+
+📱 <strong>Available on:  
+
+<p align="center">
+  🔗 <a href="https://play.google.com/store/apps/details?id=com.mohamedbaaly.dentalappointment">
+    <img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🔗 <a href="">
+    <img src="https://img.shields.io/badge/App_Store-333333?style=for-the-badge&logo=app-store&logoColor=white">
+  </a>
+</p>
+
 </div>
 
 
