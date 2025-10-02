@@ -62,7 +62,7 @@ Choose your dental specialization, select your doctor, and pick a suitable date 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### ⚽ KoraTime ⚽  
-<img src="koratime_icon.png" alt="KoraTime Icon" width="130">  
+<img src="koratime_icon.png" alt="KoraTime Icon" width="110">  
 
 <p>
 Kora Time makes booking your next football or padel match fast and simple.
