@@ -58,6 +58,29 @@ Choose your dental specialization, select your doctor, and pick a suitable date 
   </a>
 </p>
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+### ⚽ KoraTime ⚽  
+<img src="koratime_icon.png" alt="KoraTime Icon" width="130">  
+
+<p>
+Kora Time makes booking your next football or padel match fast and simple.
+Choose your sport, select your preferred field or court, and pick a suitable date and time — all in just a few taps.  
+</p>
+
+📱 <strong>Available on:  
+
+<p align="center">
+  🔗 <a href="https://play.google.com/store/apps/details?id=com.mohamedbaaly.koratime">
+    <img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🔗 <a href="">
+    <img src="https://img.shields.io/badge/App_Store-333333?style=for-the-badge&logo=app-store&logoColor=white">
+  </a>
+</p>
+
 </div>
 
 
