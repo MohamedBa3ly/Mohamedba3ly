@@ -38,7 +38,7 @@ Stay organized and informed with Baby Care Center, an app designed to support yo
 
 
 ### 🩺 CureBook 🩺  
-<img src="dental_icon.png" alt="CureBook Icon" width="100">  
+<img src="dental_icon.png" alt="CureBook Icon" width="130">  
 
 <p>
 Dental Appointment makes booking your next dentist visit fast and simple.
