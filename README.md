@@ -36,6 +36,7 @@ Stay organized and informed with Baby Care Center, an app designed to support yo
   </a>
 </p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 🩺 CureBook 🩺  
 <img src="dental_icon.png" alt="CureBook Icon" width="130">  
