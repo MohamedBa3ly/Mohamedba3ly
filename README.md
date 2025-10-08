@@ -42,7 +42,7 @@ Stay organized and informed with Baby Care Center, an app designed to support yo
 <img src="dental_icon.png" alt="CureBook Icon" width="130">  
 
 <p>
-Dental Appointment makes booking your next dentist visit fast and simple.
+CureBook makes booking your next dentist visit fast and simple.
 Choose your dental specialization, select your doctor, and pick a suitable date and time, all in just a few taps.  
 </p>
 
@@ -65,7 +65,7 @@ Choose your dental specialization, select your doctor, and pick a suitable date 
 <img src="koratime_icon.png" alt="KoraTime Icon" width="110">  
 
 <p>
-Kora Time makes booking your next football or padel match fast and simple.
+KoraTime makes booking your next football or padel match fast and simple.
 Choose your sport, select your preferred field or court, and pick a suitable date and time — all in just a few taps.  
 </p>
 
