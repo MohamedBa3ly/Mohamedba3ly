@@ -53,7 +53,7 @@ Choose your dental specialization, select your doctor, and pick a suitable date 
     <img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  🔗 <a href="">
+  🔗 <a href="https://apps.apple.com/us/app/curebook-by-mb-tech/id6749250566">
     <img src="https://img.shields.io/badge/App_Store-333333?style=for-the-badge&logo=app-store&logoColor=white">
   </a>
 </p>
@@ -76,7 +76,7 @@ Choose your sport, select your preferred field or court, and pick a suitable dat
     <img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  🔗 <a href="">
+  🔗 <a href="https://apps.apple.com/us/app/koratime/id6753878480">
     <img src="https://img.shields.io/badge/App_Store-333333?style=for-the-badge&logo=app-store&logoColor=white">
   </a>
 </p>
