@@ -98,6 +98,20 @@ The official website of BM Company, designed to showcase our expertise in constr
   </a>
 </p>
 
+### 🏢 Archist Design Studio 🏢  
+<img src="archist_icon.png" alt="Archist Design Studio Icon" width="110">  
+
+<p>
+The official website of Archist Design Studio, Inspired by Art, Driven by Function. 
+</p>
+
+🌏 <strong>Available on:  
+
+<p align="center">
+  🔗 <a href="https://archistdesigns.com">
+    <img src="chrome_icon.png" width="60">
+  </a>
+</p>
 
 
 </div>
