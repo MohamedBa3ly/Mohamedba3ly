@@ -8,8 +8,24 @@
 - ⚡ Fun fact **Simplicity wins**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/mohamedba3ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedba3ly" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mohamedba3ly" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="https://mb-portfolio-13606.web.app" target="_blank" style="text-decoration:none; margin-left:30px;">
+    <img align="center"
+         src="https://img.icons8.com/fluency/48/domain.png"
+         alt="Portfolio"
+         width="24"
+         height="24" />
+    Portfolio
+  </a>
 </p>
 
 <h2 align="center">🚀 Projects</h2>
