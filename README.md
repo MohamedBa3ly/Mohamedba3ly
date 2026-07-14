@@ -6,27 +6,23 @@
 - 📫 How to reach me **mohamedelbaaly1010@gmail.com**
 
 - ⚡ Fun fact **Simplicity wins**
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/mohamedba3ly" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn"
-         height="30"
-         width="40" />
+   <a href="https://linkedin.com/in/mohamedba3ly" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      style="vertical-align:middle;" />
   </a>
-
-  <a href="https://mb-portfolio-13606.web.app" target="_blank" style="text-decoration:none; margin-left:30px;">
-    <img align="center"
-         src="https://img.icons8.com/fluency/48/domain.png"
-         alt="Portfolio"
-         width="24"
-         height="24" />
-    Portfolio
-  </a>
+    &nbsp;&nbsp;&nbsp;
+  <a href="https://mb-portfolio-13606.web.app" target="_blank">🌐 Portfolio</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/12ppJkgMrl0xcOdyDs7lMSei1hLSlQMVa/view?usp=sharing" target="_blank">📄 View Resume</a>
 </p>
+
+
 
 <h2 align="center">🚀 Projects</h2>
 
