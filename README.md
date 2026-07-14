@@ -129,6 +129,21 @@ The official website of Archist Design Studio, Inspired by Art, Driven by Functi
   </a>
 </p>
 
+### 🧑‍⚕️ Dr.Osama Ezz Orthodontics 🧑‍⚕️  
+<img src="osama_ezz_orthodontics.png" alt="osama ezz Icon" width="110">  
+
+<p>
+The official website of Archist Design Studio, Inspired by Art, Driven by Function. 
+</p>
+
+🌏 <strong>Available on:  
+
+<p align="center">
+  🔗 <a href="https://drosamaezz.com">
+    <img src="chrome_icon.png" width="60">
+  </a>
+</p>
+
 
 </div>
 
