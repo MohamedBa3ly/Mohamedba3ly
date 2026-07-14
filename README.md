@@ -133,7 +133,7 @@ The official website of Archist Design Studio, Inspired by Art, Driven by Functi
 <img src="osama_ezz_orthodontics.png" alt="osama ezz Icon" width="110">  
 
 <p>
-The official website of Archist Design Studio, Inspired by Art, Driven by Function. 
+Developed a responsive website for Dr. Osama Ezz Orthodontics with treatment details, before & after cases, and an admin dashboard.
 </p>
 
 🌏 <strong>Available on:  
