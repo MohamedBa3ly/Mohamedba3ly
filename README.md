@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="cover.png" alt="Mohamed Elbaaly Cover" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Mohamed Elbaaly</h1>
 <h3 align="center">Electrical Engineer, Passionate about Mobile Development</h3>
 
